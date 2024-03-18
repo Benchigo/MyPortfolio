@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Full-Stack Engineer
 - 💞️ I’m looking to collaborate on React applications
 - 📫 How to reach me: benardchigonga@gmail.com
+Fortune favors the brave!
+
   
   
 <!---
