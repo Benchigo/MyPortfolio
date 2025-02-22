@@ -1,8 +1,5 @@
 - 👋 Hi! I’m Benard Chigonga
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full-Stack Engineer
-- 💞️ I’m looking to collaborate on React applications
-- 📫 How to reach me: benardchigonga@gmail.com
+- 📫 How to reach me: https://benardchigonga.co.uk
 - ✨Fortune Favors The Brave!
 
   
